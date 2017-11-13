@@ -1,0 +1,10 @@
+#   1 NUMBER                 Running object number                                     
+#   2 X                      Object position along x                                    [pixel]
+#   3 Y                      Object position along y                                    [pixel]
+#   4 Z                      Object position along z                                    [pixel]
+#! nx:2
+#! ny:2
+1 10 10 50
+2 10 20 70
+3 20 10 50
+4 20 20 70
